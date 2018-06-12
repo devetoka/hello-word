@@ -1,2 +1,3 @@
 # hello-word
-An hello word program
+
+Hey I am excited, I am writing this here
